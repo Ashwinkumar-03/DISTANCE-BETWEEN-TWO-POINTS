@@ -33,7 +33,8 @@ print("{:.2f}".format(dist))
 
 
 ### OUTPUT:
-![output](op3.png)
+
+![output](/op3.png)
 
 
 
